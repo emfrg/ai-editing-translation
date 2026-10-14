@@ -80,4 +80,4 @@ The designed case study is available as a PDF: [Scholia — AI Editing & Transla
 
 Manos Fragkiadakis is an Applied AI Engineer building document intelligence and AI knowledge systems. He has over five years of Python software development experience and has built custom ERP and CRM systems for professionals. His recent work includes cited RAG across 3,000+ page legal case files and court-monitoring automation software used by 10+ law offices. He previously worked as an AI engineer and taught Natural Language Processing at Utrecht University.
 
-[GitHub](https://github.com/emfrg)
+[GitHub](https://github.com/emfrg) · [Upwork](https://www.upwork.com/freelancers/manosfrg)
